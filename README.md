@@ -5,7 +5,7 @@
 - 🌱 Sou estudade em Análise e Desenvolvimento de Sistemas
 - 📘 Estudo por conta propria Javascrip e Java dentre outra tecnologias.
 
-<div style="display: inline_block">
+<div align="center">
   <div>
     <a href="https://github.com/carloshenyk">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshenyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
